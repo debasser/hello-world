@@ -15,5 +15,10 @@ namespace HelloGitWorld
             Console.WriteLine("A new commit after resetting branch");
             Console.WriteLine("A new commit after cleanup");
         }
+
+        static private void Foo()
+        {
+            Console.WriteLine("Change when master is behind by one");
+        }
     }
 }
