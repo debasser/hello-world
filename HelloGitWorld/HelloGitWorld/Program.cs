@@ -12,6 +12,7 @@ namespace HelloGitWorld
         {
             Console.WriteLine("Messing around with git");
             Console.WriteLine("And having a ball to boot");
+            Console.WriteLine("Here is a commit");
         }
     }
 }
