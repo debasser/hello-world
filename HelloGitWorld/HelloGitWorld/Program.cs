@@ -11,6 +11,7 @@ namespace HelloGitWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Messing around with git");
+            Console.WriteLine("And having a ball");
         }
     }
 }
