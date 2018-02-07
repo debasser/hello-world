@@ -14,5 +14,10 @@ namespace HelloGitWorld
             Console.WriteLine("And having a ball");
             Console.WriteLine("A new commit after resetting branch");
         }
+
+        static private void Foo()
+        {
+            Console.WriteLine("Change when master is behind by one");
+        }
     }
 }
